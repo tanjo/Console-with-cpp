@@ -11,3 +11,15 @@
 *.lai
 *.la
 *.a
+
+*.gch
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+TJConsole
+
+build/
